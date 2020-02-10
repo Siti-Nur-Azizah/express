@@ -1,0 +1,71 @@
+body{
+    background-image: url(../images/latar.jpg);
+}
+
+.sebuah-kotak{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+hr{
+    border: 2px solid black;
+    width: 200px;
+}
+
+.form-input{
+    margin-top: 60px;
+    padding: 20px;
+
+}
+
+input{
+    height: 45px;
+    width: 90%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+#email{
+    padding: 5px;
+    font-size: 15px;
+}
+
+#password{
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+button{
+    width: 100%;
+    height: 45px;
+    border: 1px solid black;
+    background: blue;
+    color: white;
+    font-size: 20px;
+}
+
+.form-button{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.bg-footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
